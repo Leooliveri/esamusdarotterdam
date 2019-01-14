@@ -1,6 +1,6 @@
 function square(s) {
     if ((typeof s) == "string") {
-        return s.length*s.legth;
+        return s.length*s.length;
     }
     else {
         return -1;
